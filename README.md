@@ -11,5 +11,5 @@ synchronisation using the C programmming language.
 
 ```
 $> make
-$> ./wolf3d  map
+$> ./minishell
 ```
